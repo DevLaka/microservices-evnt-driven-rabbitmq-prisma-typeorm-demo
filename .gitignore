@@ -1,0 +1,5 @@
+admin/dist
+main/dist
+admin/node_modules
+main/node_modules
+admin/.env
